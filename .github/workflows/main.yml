@@ -1,4 +1,4 @@
-name: Dotnet Build-Test-MSDeploy your project
+name: Dotnet Build-Test-MSDeploy On PREM
 
 on:
   push:
