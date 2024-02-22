@@ -10,7 +10,7 @@ jobs:
     runs-on: windows-latest
     env:
       PROJECT_DIRECTORY_PATH: "dotnet-build-test-msdeploy"
-      IIS_SERVER_COMPUTER_NAME: ${{ secrets.IIS_CREDENTIALS }}
+      IIS_SERVER_COMPUTER_NAME: ${{ secrets.IIS_SERVER_COMPUTER_NAME }}
       IIS_WEBSITE_NAME: ${{ secrets.IIS_CREDENTIALS }}
       IIS_SERVER_USERNAME: ${{ secrets.IIS_CREDENTIALS }}
       IIS_SERVER_PASSWORD: ${{ secrets.IIS_CREDENTIALS }}
