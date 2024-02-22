@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RahulParmarRP/dotnet-build-test-msdeploy.git"
+    "url": "git+https://github.com/kkhelif/dotnet-build-test-msdeploy.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/RahulParmarRP/dotnet-build-test-msdeploy/issues"
+    "url": "https://github.com/kkhelif/dotnet-build-test-msdeploy/issues"
   },
-  "homepage": "https://github.com/RahulParmarRP/dotnet-build-test-msdeploy#readme",
+  "homepage": "https://github.com/kkhelif/dotnet-build-test-msdeploy#readme",
   "dependencies": {
     "@actions/core": "^1.2.6",
     "@actions/github": "^2.1.1"
